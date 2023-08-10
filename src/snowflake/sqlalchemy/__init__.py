@@ -64,7 +64,7 @@ from .util import _url as URL
 
 base.dialect = dialect = snowdialect.dialect
 
-__version__ = importlib_metadata.version("snowflake-sqlalchemy")
+__version__ = importlib_metadata.version("snowflake-sqlalchemy-2")
 
 __all__ = (
     "BIGINT",
